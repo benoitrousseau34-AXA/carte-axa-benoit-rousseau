@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+N:Rousseau;Benoit;;;
+FN:Benoit Rousseau
+ORG:Benoit Rousseau EI
+TITLE:Agent général d’assurance exclusif AXA Prévoyance & Patrimoine
+TEL;TYPE=WORK,VOICE:+33609986679
+EMAIL;TYPE=WORK:benoit.rousseau.a2p@axa.fr
+NOTE:ORIAS 26 010 868
+END:VCARD
